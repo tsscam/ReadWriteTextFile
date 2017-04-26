@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TestFile\TestFile\bin\Debug\TestFile.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TestFile\TestFile\bin\Debug\TestFile.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TestFile\TestFile\bin\Debug\TestFile.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TestFile\TestFile\obj\Debug\TestFile.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TestFile\TestFile\obj\Debug\TestFile.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TestFile\TestFile\obj\Debug\TestFile.pdb
